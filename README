@@ -3,6 +3,6 @@ B. You can also find and get these documents on my GitHub.
 C. The speed of the song is 85.
 D. Sometimes the XBee can’t receive the signal at the same time or miss it. (still can’t figure it out)
    Something has been done already:
-      (1) Add the new XBee remote module in the XCTU.
+      (1) Add the new XBee remote modules in XCTU.
       (2) Change start.py to send three letters and change the arduino program to trigger one light effect 
           when any one of the three letters has been received.
