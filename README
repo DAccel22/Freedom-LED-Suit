@@ -1,6 +1,6 @@
 A. There are four documents in the folder: demoS, demoM, demoL, start.py, and one mp3 file: freedom.mp3(modified).
 B. The speed of the song is 85.
-C. Sometimes the XBee can’t receive the signal at the same time or miss it. (still can’t figure it out)
+C. Sometimes XBees can’t receive the signal at the same time or miss it. (still can’t figure it out)
    Something has been done already:
       (1) Add the new XBee remote modules in XCTU.
       (2) Change start.py to send three letters and change the arduino program to trigger one light effect 
